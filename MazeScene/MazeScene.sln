@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeScene.CSharp", "MazeScene.CSharp.csproj", "{D873E03D-4DDF-B4A9-60F8-2F525A4207CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeScene.CSharp.Editor", "MazeScene.CSharp.Editor.csproj", "{258A4EF3-881C-59FF-C4B6-F53001466529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D873E03D-4DDF-B4A9-60F8-2F525A4207CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D873E03D-4DDF-B4A9-60F8-2F525A4207CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D873E03D-4DDF-B4A9-60F8-2F525A4207CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D873E03D-4DDF-B4A9-60F8-2F525A4207CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258A4EF3-881C-59FF-C4B6-F53001466529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258A4EF3-881C-59FF-C4B6-F53001466529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258A4EF3-881C-59FF-C4B6-F53001466529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258A4EF3-881C-59FF-C4B6-F53001466529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
